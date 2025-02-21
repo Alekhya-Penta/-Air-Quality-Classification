@@ -7,7 +7,7 @@ from tensorflow.keras.preprocessing.image import load_img, img_to_array
 
 # Google Drive file ID (Extracted from the link)
 drive_file_id = "1AOXKejgCEs028QpQtS2jyhikl3J5zPKA" 
-model_path = "resnet_vit_model.h5(1)"
+model_path = "resnet_vit_model (1).h5"
 
 # Function to download model
 def download_model():
